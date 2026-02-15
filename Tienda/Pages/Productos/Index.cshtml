@@ -1,0 +1,33 @@
+@page
+@model IndexModel
+<h2>Lista de Productos</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Marca</th>
+            <th>Precio</th>
+            <th>Stock</th>
+            <th>Descripción</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.Productos)
+    {
+        <tr>
+            <td>@item.Nombre</td>
+            <td>@item.Marca</td>
+            <td>@item.Precio</td>
+            <td>@item.Stock</td>
+            <td>@item.Descripcion</td>
+            <td>
+                <a asp-page="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-page="Delete" asp-route-id="@item.Id">Eliminar</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<a asp-page="Create">Registrar nuevo producto</a>

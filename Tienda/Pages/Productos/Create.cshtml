@@ -1,0 +1,12 @@
+@page
+@model CreateModel
+<h2>Registrar Producto</h2>
+
+<form method="post">
+    <div><label>Nombre</label><input asp-for="Producto.Nombre" /></div>
+    <div><label>Marca</label><input asp-for="Producto.Marca" /></div>
+    <div><label>Precio</label><input asp-for="Producto.Precio" type="number" step="0.01" /></div>
+    <div><label>Stock</label><input asp-for="Producto.Stock" type="number" /></div>
+    <div><label>Descripción</label><textarea asp-for="Producto.Descripcion"></textarea></div>
+    <button type="submit">Guardar</button>
+</form>
