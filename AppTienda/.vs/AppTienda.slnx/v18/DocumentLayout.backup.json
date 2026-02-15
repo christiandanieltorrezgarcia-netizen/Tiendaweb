@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|c:\\users\\theur\\source\\repos\\tiendaweb\\apptienda\\pages\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|solutionrelative:pages\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|c:\\users\\theur\\source\\repos\\tiendaweb\\apptienda\\pages\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|solutionrelative:pages\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|c:\\users\\theur\\source\\repos\\tiendaweb\\apptienda\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|c:\\users\\theur\\source\\repos\\tiendaweb\\apptienda\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|c:\\users\\theur\\source\\repos\\tiendaweb\\apptienda\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|c:\\users\\theur\\source\\repos\\tiendaweb\\apptienda\\pagemodels\\productospagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|solutionrelative:pagemodels\\productospagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|c:\\users\\theur\\source\\repos\\tiendaweb\\apptienda\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE612F66-0E0F-4E45-96F1-D06F8F556037}|AppTienda.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:53:47.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T19:53:44.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\Pages\\ProductosPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ProductosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\Pages\\ProductosPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ProductosPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:53:13.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\Pages\\ProductosPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ProductosPage.xaml",
+              "ToolTip": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\Pages\\ProductosPage.xaml",
+              "RelativeToolTip": "Pages\\ProductosPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T19:53:06.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\PageModels\\ProductosPageModel.cs",
+              "RelativeDocumentMoniker": "PageModels\\ProductosPageModel.cs",
+              "ToolTip": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\PageModels\\ProductosPageModel.cs",
+              "RelativeToolTip": "PageModels\\ProductosPageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:52:20.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:50:34.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\theur\\source\\repos\\Tiendaweb\\AppTienda\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:50:02.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppTienda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6fe5d465b79057c88dd121fdd6544a818e2aec03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c26e2f571707815395908e50fe97c5f323771bf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppTienda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppTienda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

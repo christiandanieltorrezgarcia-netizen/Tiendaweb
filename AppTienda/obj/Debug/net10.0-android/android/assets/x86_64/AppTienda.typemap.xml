@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="AppTienda" mvid="1d49425cba9b4429be7b73fcd539a526">
+  <java-to-managed>
+    <entry java-name="crc644be14807e4aac191/MainActivity" managed-name="AppTienda.MainActivity, AppTienda" managed-type-token-id="33554456" />
+    <entry java-name="crc644be14807e4aac191/MainApplication" managed-name="AppTienda.MainApplication, AppTienda" managed-type-token-id="33554457" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc644be14807e4aac191/MainActivity" managed-name="AppTienda.MainActivity, AppTienda" managed-type-token-id="33554456" />
+    <entry java-name="crc644be14807e4aac191/MainApplication" managed-name="AppTienda.MainApplication, AppTienda" managed-type-token-id="33554457" />
+  </managed-to-java>
+</api>
